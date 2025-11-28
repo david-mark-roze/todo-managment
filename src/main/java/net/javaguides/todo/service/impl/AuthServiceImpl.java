@@ -12,7 +12,6 @@ import net.javaguides.todo.repository.UserRepository;
 import net.javaguides.todo.security.JwtTokenProvider;
 import net.javaguides.todo.service.AuthService;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.Authentication;
